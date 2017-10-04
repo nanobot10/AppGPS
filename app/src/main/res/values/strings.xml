@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AppGPS</string>
+    <string name="resume">Resume Location Updates</string>
+    <string name="pause">Pause Location Updates</string>
+    <string name="bluetoothOn">Conectar Bluetooth</string>
+    <string name="none_paired">Ningun dispositivo pudo ser emparejado</string>
+    <string name="resumeCO">Resume CO Updates</string>
+
+</resources>
