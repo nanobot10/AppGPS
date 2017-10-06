@@ -94,7 +94,7 @@
             android:layout_centerHorizontal="true"
             android:layout_below="@id/titleCO"
             android:text="@string/resumeCO"
-            android:onClick="toggleGPSUpdates"/>
+            />
 
         <TextView
             android:id="@+id/txtCO"
